@@ -6,12 +6,10 @@ with AI coding agents, and I open-source the tools other people might find usefu
 
 **Open source**
 
-| | |
-|---|---|
-| [**handwrite**](https://github.com/alperalyaz/handwrite) | Turn a photo of your handwriting into an OpenType font. No template boxes: an LLM reads the text, dynamic programming finds each letter. |
-| [**debate.be**](https://github.com/alperalyaz/siyaset_meydani) | An AI talk show where history's greatest minds debate each other and you're the host. Live at [debate.be](https://debate.be). |
-| [**Hydraulic & Pneumatic Calculator**](https://github.com/alperalyaz/hpcalculator) | 12 engineering calculators for pump flow, cylinder force, accumulators, buckling and more. [Web](https://calculate.hidroteknik.com.tr) and Android. |
-| [**hushdown**](https://github.com/alperalyaz/hushdown) | Chrome extension that renames every download with a sortable timestamp and sorts files by type. |
+- [**handwrite**](https://github.com/alperalyaz/handwrite): turn a photo of your handwriting into an OpenType font. No template boxes: an LLM reads the text, dynamic programming finds each letter.
+- [**debate.be**](https://github.com/alperalyaz/siyaset_meydani): an AI talk show where history's greatest minds debate each other and you're the host. Live at [debate.be](https://debate.be).
+- [**Hydraulic & Pneumatic Calculator**](https://github.com/alperalyaz/hpcalculator): 12 engineering calculators for pump flow, cylinder force, accumulators, buckling and more. [Web](https://calculate.hidroteknik.com.tr) and Android.
+- [**hushdown**](https://github.com/alperalyaz/hushdown): Chrome extension that renames every download with a sortable timestamp and sorts files by type.
 
 **Also building**
 
