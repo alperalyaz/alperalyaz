@@ -12,8 +12,6 @@ with AI coding agents, and I open-source the tools other people might find usefu
 - [**hushdown**](https://github.com/alperalyaz/hushdown): Chrome extension that renames every download with a sortable timestamp and sorts files by type.
 
 **Also building**
-
-- [offerver](https://offerver.com): puts every incoming quote request into one shared pool the whole team can work from.
 - The in-house ERP, CRM and field-service tools that run Hidroteknik (Next.js, Supabase).
 
 **Writing:** [alperalyaz.github.io](https://alperalyaz.github.io), notes since 2011 on whatever catches my attention, from hydraulic valves to Halley's Comet.
