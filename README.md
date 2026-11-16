@@ -17,7 +17,6 @@ I choose the problems, make the design calls and answer for the bugs. I publish 
 
 - [**KanbanCode**](https://github.com/alperalyaz/KanbanCode) is my fork of [Agent Teams AI](https://github.com/777genius/agent-teams-ai) by 777genius, a desktop kanban board for running teams of coding agents. The original design is theirs. AGPL-3.0.
 - [**arduino-araba**](https://github.com/alperalyaz/arduino-araba) brings a years-old obstacle-avoiding robot car back to life. The original code is lost, so it is being rewritten from scratch. Unfinished, notes in Turkish.
-- [**kirtasiye**](https://github.com/alperalyaz/kirtasiye) exists because a school sent its supply list as eight separate per-subject lists. I merged them into one page you can tick off in the shop. In Turkish.
 
 **Not public**
 
